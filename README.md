@@ -1,8 +1,55 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Warehouse application
 
-Currently, two official plugins are available:
+The application is used get the Warehouse house details form json file.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+And a warehouse detail page.
+
+
+
+
+
+## Tech Stack
+
+**Client:** React, CURD operations,React-route-dom,Redux
+
+
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Dibyas98/company-1-task-3.git
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
+
+## Lessons Learned
+
+How to use react route dom.And make a single page application
+
+
+## Screenshots
+
+![1](https://github.com/Dibyas98/company-1-task-3/assets/125633895/ab17c595-06f9-4652-b02c-cd2647f7b5e4)
+![2](https://github.com/Dibyas98/company-1-task-3/assets/125633895/52752f05-7903-4c8f-952f-a3dc70563d8d)
+
