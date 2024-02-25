@@ -5,6 +5,8 @@ The application is used get the Warehouse house details form json file.
 
 And a warehouse detail page.
 
+## [Hosted Link](https://company-1-task-3.vercel.app/)
+
 
 
 
